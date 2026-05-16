@@ -1,6 +1,6 @@
 # PWFWDemo Automation Reports
 
-Welcome to the **June2025PWFramework** automation project. Below you can find the latest test results and HTML reports.
+Welcome to the **Playwright Automaton Framewrk built using Typescript** automation project. Below you can find the latest test results and HTML reports.
 
 ---
 
