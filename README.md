@@ -6,7 +6,7 @@ Welcome to the **Playwright Automaton Framewrk built using Typescript** automati
 
 ## Workflow Status
 
-[![Playwright Tests](https://github.com/taarun96/June2025PWFramework/actions/workflows/playwright.yml/badge.svg)](https://github.com/taarun96/June2025PWFramework/actions/workflows/playwright.yml)
+[![Playwright Tests](https://github.com/taarun96/PlaywrightAutomationFramework/actions/workflows/playwright.yml/badge.svg)](https://github.com/taarun96/PlaywrightAutomationFramework/actions/workflows/playwright.yml)
 
 ---
 
@@ -14,9 +14,9 @@ Welcome to the **Playwright Automaton Framewrk built using Typescript** automati
 
 Click the badges below to view the latest reports published via GitHub Pages:
 
-[![Playwright Report](https://img.shields.io/badge/Playwright-Report-blue)](https://taarun96.github.io/June2025PWFramework/playwright-report/index.html)
-[![Playwright HTML Reporter](https://img.shields.io/badge/Playwright_HTML-Report-green)](https://taarun96.github.io/June2025PWFramework/playwright-html-report/index.html)
-[![Allure Report](https://img.shields.io/badge/Allure-Report-red)](https://taarun96.github.io/June2025PWFramework/allure-report/index.html)
+[![Playwright Report](https://img.shields.io/badge/Playwright-Report-blue)](https://taarun96.github.io/PlaywrightAutomationFramework/playwright-report/index.html)
+[![Playwright HTML Reporter](https://img.shields.io/badge/Playwright_HTML-Report-green)](https://taarun96.github.io/PlaywrightAutomationFramework/playwright-html-report/index.html)
+[![Allure Report](https://img.shields.io/badge/Allure-Report-red)](https://taarun96.github.io/PlaywrightAutomationFramework/allure-report/index.html)
 
 ---
 

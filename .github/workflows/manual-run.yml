@@ -192,7 +192,7 @@ jobs:
           <!DOCTYPE html>
           <html>
           <head>
-            <title>Playwright Manual Run - June2025PWFramework</title>
+            <title>Playwright Manual Run - PlaywrightAutomationFramework</title>
             <style>
               body { font-family: Arial, sans-serif; max-width: 900px; margin: 50px auto; padding: 20px; }
               h1 { color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px; }
@@ -249,11 +249,11 @@ jobs:
           echo "🔹 Browser: $BROWSER"
           echo ""
           echo "🏠 Main Dashboard:"
-          echo "   https://naveenanimation20.github.io/June2025PWFramework/"
+          echo "   https://taarun96.github.io/PlaywrightAutomationFramework/"
           echo ""
           echo "📊 ${ENV^^} Reports:"
-          echo "   Playwright: https://naveenanimation20.github.io/June2025PWFramework/${ENV}/playwright-report/index.html"
-          echo "   HTML:       https://naveenanimation20.github.io/June2025PWFramework/${ENV}/playwright-html-report/index.html"
-          echo "   Allure:     https://naveenanimation20.github.io/June2025PWFramework/${ENV}/allure-report/index.html"
+          echo "   Playwright: https://taarun96.github.io/PlaywrightAutomationFramework/${ENV}/playwright-report/index.html"
+          echo "   HTML:       https://taarun96.github.io/PlaywrightAutomationFramework/${ENV}/playwright-html-report/index.html"
+          echo "   Allure:     https://taarun96.github.io/PlaywrightAutomationFramework/${ENV}/allure-report/index.html"
           echo ""
           echo "============================================"
